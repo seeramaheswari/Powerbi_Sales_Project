@@ -20,7 +20,11 @@
 
 **Every category sales got spiked in the month of september and remainind flactuated through november**
 
+<img width="500" height="300" alt="Image" src="https://github.com/user-attachments/assets/e79b0073-df54-42fd-9fae-d16a53b589b3" />
 
+**West contributes 32% of sales which is equal to 3.7l of revenue was generated with that sales.**
+
+**South was the least performing region and contributes 16% of sales 1.8l of revenue generation**
 
 **In my over all analysis,west has been best sales performace for all categories ie even for the technology category which has least sales quantity**
 
