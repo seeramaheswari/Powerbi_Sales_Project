@@ -12,7 +12,16 @@
 
 **Overall sales count is equal to 5k which is equal to 1M total revenue**
 
+<img width="500" height="300" alt="Image" src="https://github.com/user-attachments/assets/e79b0073-df54-42fd-9fae-d16a53b589b3" />
+
+**Office Supplies has highest sales quantity but with least revenue than remaining categories**
+
+**Even with least sales count ie 850,technology generates 3.7l revenue which is highest among all**
+
+**Every category sales got spiked in the month of september and remainind flactuated through november**
+
+
+
 **In my over all analysis,west has been best sales performace for all categories ie even for the technology category which has least sales quantity**
 
 
-**Office Supplies has highest sales quantity but with least revenue than remaining categories**
