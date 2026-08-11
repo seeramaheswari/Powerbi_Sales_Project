@@ -22,12 +22,12 @@
 
 **And lastly furniture generates 3.3 lakh revenue with nearly 1200 sales.**
 
-<img width="500" height="300" alt="Image" src="https://github.com/user-attachments/assets/e79b0073-df54-42fd-9fae-d16a53b589b3" />
+<img width="500" height="300" alt="Image" src="https://github.com/user-attachments/assets/583314b9-4b7f-4851-bd54-559132068cfa" />
 
-**West contributes 32% of sales which is equal to 3.7l of revenue was generated with that sales.**
+**East and west regions together contributes 59% of sales which equals to 6.4 lakh revenue**
 
-**South was the least performing region and contributes 16% of sales 1.8l of revenue generation**
+**central region takes third place in sales and revenue generation with  23% contribution of sales that equals to 2.4 lakh company's revenue generation**
 
-**In my over all analysis,west has been best sales performace for all categories ie even for the technology category which has least sales quantity**
+**lastly south contributes 16% which equals to 1.8 lakh company's revenue generation.**
 
 
