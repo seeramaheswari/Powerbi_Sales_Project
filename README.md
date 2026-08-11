@@ -41,4 +41,6 @@
 
 **We can also check month to month sales and revenue tracking and which month to month sales growth and revenue growth.**
 
+<img width="500" height="300" alt="Image" src="https://github.com/user-attachments/assets/cb2a6298-4357-4327-9efe-57b3db7899fa" />
+
 
